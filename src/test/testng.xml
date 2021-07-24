@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/sachin/IdeaProjects/DataProviderLinkedInApp/src/test/java/com/bridgelabz/selenium/test/KeywordLoginTest.java">
+        <classes>
+            <class name="com.bridgelabz.selenium.test.KeywordLoginTest">
+                <methods>
+                    <include name="loginTest"/>
+                    <include name="logoutPage"/>
+                    <include name=" pdf_test"/>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

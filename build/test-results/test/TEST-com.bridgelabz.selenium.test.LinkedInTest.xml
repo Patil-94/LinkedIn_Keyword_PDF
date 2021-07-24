@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.test.LinkedInTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-07-24T06:08:11" hostname="DESKTOP-KFGQFK8" time="83.632">
+  <properties/>
+  <testcase name="logoutPage[0](ankitakhairnar10@gmail.com, anki@123)" classname="com.bridgelabz.selenium.test.LinkedInTest" time="49.255"/>
+  <testcase name="logoutPage[1](ankitakhairnar10@gmail.com, anki@123)" classname="com.bridgelabz.selenium.test.LinkedInTest" time="23.785"/>
+  <system-out><![CDATA[Success Test
+Success Test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
